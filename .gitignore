@@ -1,1 +1,17 @@
 .idea/
+*.iml
+.git
+.gitignore.swp
+**/generated/**
+logs/
+ve/
+.venv
+*.pyc
+**/.vscode/**
+**/.DS_Store
+**/bin
+**/build/**
+workflow/**
+**/*.swp
+**/venv/**
+**/dist
